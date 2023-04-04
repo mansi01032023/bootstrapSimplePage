@@ -1,0 +1,13 @@
+li:hover{
+background-color: green;
+}
+/* container section starts here */
+.container-fluid__header{
+    background-color: #cccccc;
+}
+.container-fluid__aside{
+    background-color: #e0e0e0;
+}
+.container-fluid__footer{
+    background-color: #cccccc;
+}
